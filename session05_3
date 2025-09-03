@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bsession05_3 {
+public class session05_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
